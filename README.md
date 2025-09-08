@@ -39,6 +39,7 @@ jupyter notebook
 
 ### Google Colab
 Você também pode abrir os notebooks diretamente no **Google Colab**, sem instalar nada localmente. Basta clicar no link abaixo e fazer upload do notebook desejado.
+
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ## Dependências
