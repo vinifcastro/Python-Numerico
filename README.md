@@ -61,6 +61,3 @@ $$
 $$
 x_{n+1} = \frac{(k-1)x_n + \tfrac{a}{x_n^{k-1}}}{k}
 $$
-
-## Licença
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
