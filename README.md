@@ -38,9 +38,8 @@ jupyter notebook
 ```
 
 ### Google Colab
-Você também pode abrir os notebooks diretamente no **Google Colab**, sem instalar nada localmente. Basta clicar no link abaixo e substituir `seu-usuario` pelo nome correto do seu GitHub:
-
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/seu-usuario/calculo-numerico)
+Você também pode abrir os notebooks diretamente no **Google Colab**, sem instalar nada localmente. Basta clicar no link abaixo e fazer upload do notebook desejado.
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
 
 ## Dependências
 - Python 3.8+
