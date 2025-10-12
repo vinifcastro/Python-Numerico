@@ -16,8 +16,8 @@ Você pode rodar os notebooks de duas formas:
 ### Localmente
 Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/calculo-numerico.git
-cd calculo-numerico
+git clone https://github.com/seu-usuario/calculo-numerico.git](https://github.com/vinifcastro/Python-Numerico.git
+cd Python-Numerico
 ```
 
 Crie um ambiente virtual (opcional, mas recomendado):
