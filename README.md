@@ -48,15 +48,6 @@ Você também pode abrir os notebooks diretamente no **Google Colab**, sem insta
 - Matplotlib
 - Jupyter
 
-(Outras dependências podem ser adicionadas em `requirements.txt`.)
-
-## Exemplos de equações utilizadas
-
-### Método da Raiz Quadrada
-$$
-x_{n+1} = \frac{1}{2}\left(x_n + \frac{a}{x_n}\right)
-$$
-
 ### Método da Raiz k-ésima (Newton-Raphson)
 $$
 x_{n+1} = \frac{(k-1)x_n + \tfrac{a}{x_n^{k-1}}}{k}
